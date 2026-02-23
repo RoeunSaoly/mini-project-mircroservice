@@ -30,7 +30,7 @@ Services communicate through **RabbitMQ** for event-driven messaging, ensuring l
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:RoeunSaoly/mini-project-mircroservice.git
 cd microservices
 ```
 
