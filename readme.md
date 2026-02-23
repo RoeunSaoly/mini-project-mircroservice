@@ -158,7 +158,7 @@ Ensure MongoDB and RabbitMQ are running (via Docker Compose or separately).
 
 ## 👨‍💻 Author
 
-Built with ❤️ by Roeun Saoly  
+Built with ❤️ Roeun Saoly  
 Third-year IT Engineering student at RUPP, aspiring full-stack developer.
 
 ---
