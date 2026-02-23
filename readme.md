@@ -161,6 +161,10 @@ Ensure MongoDB and RabbitMQ are running (via Docker Compose or separately).
 Built with ❤️ Roeun Saoly  
 Third-year IT Engineering student at RUPP, aspiring full-stack developer.
 
----
+## Reference
 
+```bash
+https://www.youtube.com/watch?v=w11dXbZJCBE&list=PLxhSr_SLdXGOyefLS4PHJDyFV2aGg1tLq
+```
+---
 *This project serves as a learning example for microservices architecture and event-driven systems.*
